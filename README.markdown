@@ -1,1 +1,1 @@
-Demo: http://leemd09.github.com/SurveyMonkey-Design-Patterns/
+Demo: http://crescentpurchasing.github.io/SurveyMonkey-Design-Patterns/
